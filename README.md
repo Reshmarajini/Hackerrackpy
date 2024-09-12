@@ -1,2 +1,3 @@
 # Hackerrackpy
-The Hacker rank Problems Solution!!! Hope it helps...
+The Hacker rank Problems Solution!!! 
+Prepare>Python>Introduction
